@@ -1,12 +1,19 @@
 rutuja is here hiiiiiiiiiiiiiiiiiiiiiiiii
 
 rrrrrrrrrrrrrrrrr
+<<<<<<< Updated upstream
 hsghhhddbdhzhhhhhh
 
 rutuajanabfhfhvfvfvejer
 eggfgf
+=======
+>>>>>>> Stashed changes
 hsghhhddbd
 
 
 rruehgfgjfkgf
+<<<<<<< Updated upstream
 ehhyryry
+=======
+ehhyryry
+>>>>>>> Stashed changes
